@@ -19,11 +19,11 @@ Actualmente, enfoco mi aprendizaje en la integración de flujos CI/CD, despliegu
 
 ### | Proyectos Destacados
 
-*   🛡️ **[Crystal](Enlace-a-tu-repo-Crystal):** Sistema de software de defensa en ciberseguridad. Implementación de patrones de diseño (GOF, Strategy), arquitectura modular y automatización de pruebas mediante integración continua (CI/CD) con GitHub Actions.
-*   🏥 **[CitasApp](Enlace-a-tu-repo-CitasApp):** Aplicación web (ASP.NET Core MVC) para la gestión de citas médicas. Desarrollada bajo los principios de Arquitectura Limpia y SOLID, implementando persistencia de datos a través de repositorios genéricos (`JsonFileStore<T>`).
+*   🛡️ **[Crystal](https://github.com/DamianCG00/Proyect-Crystal):** Sistema de software de defensa en ciberseguridad. Implementación de patrones de diseño (GOF, Strategy), arquitectura modular y automatización de pruebas mediante integración continua (CI/CD) con GitHub Actions.
+*   🏥 **[CitasApp](https://github.com/DamianCG00/CitasApp-New):** Aplicación web (ASP.NET Core MVC) para la gestión de citas médicas. Desarrollada bajo los principios de Arquitectura Limpia y SOLID, implementando persistencia de datos a través de repositorios genéricos (`JsonFileStore<T>`).
 *   🎵 **Listomania:** Aplicación orientada al sector musical. *(Nota: El código fuente de mis proyectos creativos y musicales se encuentra en mi [repositorio secundario](https://github.com/BellAwen5)).*
 
-### 🧠 Áreas de Interés y Especialización
+### | Áreas de Interés y Especialización
 - **Arquitectura de Software:** Modelo C4, Patrones GOF, Arquitectura Limpia.
 - **Redes e Infraestructura:** Certificación en Fundamentos de Redes y Cloud (AWS).
 - **Datos:** Optimización de consultas, particionamiento de tablas y modelado de esquemas.
