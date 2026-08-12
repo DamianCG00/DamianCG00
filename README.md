@@ -1,16 +1,35 @@
-## Hi there 👋
+# ¡Hola! Soy Marco Damian Coba G. 👋
 
-<!--
-**DamianCG00/DamianCG00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de Ingeniería de Software | Desarrollador Back-end & Bases de Datos**
 
-Here are some ideas to get you started:
+Soy un desarrollador radicado en Mérida, Yucatán, apasionado por el diseño de sistemas escalables, la arquitectura limpia y la automatización. Actualmente, enfoco mi aprendizaje práctico en la integración de flujos CI/CD, despliegues en la nube y el modelado robusto de bases de datos relacionales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+### 🚀 Proyectos Destacados
+
+*   🛡️ **[Crystal](Enlace-a-tu-repo-Crystal):** Sistema de software de defensa en ciberseguridad. Implementación de patrones de diseño (GOF, Strategy), arquitectura modular y automatización de pruebas mediante integración continua (CI/CD) con GitHub Actions.
+*   🏥 **[CitasApp](Enlace-a-tu-repo-CitasApp):** Aplicación web (ASP.NET Core MVC) para la gestión de citas médicas. Desarrollada bajo los principios de Arquitectura Limpia y SOLID, implementando persistencia de datos a través de repositorios genéricos (`JsonFileStore<T>`).
+*   🎵 **Listomania:** Aplicación orientada al sector musical. *(Nota: El código fuente de mis proyectos creativos y musicales se encuentra en mi [repositorio secundario](Enlace-a-tu-cuenta-secundaria)).*
+
+### 🧠 Áreas de Interés y Especialización
+- **Arquitectura de Software:** Modelo C4, Patrones GOF, Arquitectura Limpia.
+- **Redes e Infraestructura:** Certificación en Fundamentos de Redes y Cloud (AWS/Linux).
+- **Datos:** Optimización de consultas, particionamiento de tablas y modelado de esquemas.
+
+### 📫 ¿Cómo contactarme?
+
+<p align="left">
+  <a href="mailto:tu-correo@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="[Tu-Enlace-de-LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
