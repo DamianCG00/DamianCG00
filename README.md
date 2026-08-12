@@ -31,6 +31,6 @@ Actualmente, enfoco mi aprendizaje en la integración de flujos CI/CD, despliegu
 ### 📫 ¿Cómo contactarme?
 
 <p align="left">
-  <a href="mailto:marcocoba110107@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:marcocoba110107@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/damian-coba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
